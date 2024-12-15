@@ -1,0 +1,37 @@
+/* Typography */
+h1, h2, h3 {
+    font-family: 'Georgia', serif;
+    color: #556B2F; /* Olive color */
+}
+
+p {
+    font-family: 'Arial', sans-serif;
+    color: #666;
+}
+
+a {
+    color: #556B2F; /* Olive color */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+q {
+    quotes: "“" "”" "‘" "’";
+    font-style: italic;
+    color: #333;
+}
